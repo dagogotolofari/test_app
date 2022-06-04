@@ -5,6 +5,8 @@ application up and running.
 
 Things you may want to cover:
 
+* First test repo
+
 * I actuall added this line to test using git
 
 * Ruby version
