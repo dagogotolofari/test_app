@@ -5,6 +5,8 @@ application up and running.
 
 Things you may want to cover:
 
+* I actuall added this line to test using git
+
 * Ruby version
 
 * System dependencies
